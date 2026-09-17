@@ -112,12 +112,6 @@ Desarrolladora de software enfocada en construir aplicaciones web <b><font color
 
 <br/><br/>
 
-<!-- Alternativa estable para el gráfico de actividad -->
-<img src="https://svg.template.s3.fastly.net/github-activity?user=jemcu&theme=dark" width="100%" alt="Gráfico de actividad"/>
-
-</div>
-
-<br/>
 
 ## 📡 Contacto
 
