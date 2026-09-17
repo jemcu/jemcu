@@ -107,11 +107,13 @@ Desarrolladora de software enfocada en construir aplicaciones web <b><font color
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jemcu&hide_border=true&background=0f111a&ring=c87d55&fire=2a9d8f&currStreakLabel=c87d55&sideLabels=e0d8b0&currStreakNum=e0d8b0&sideNums=e0d8b0&dates=888888" height="165" alt="Racha de contribuciones"/>
+<!-- Servidor alternativo para el Streak sin bloqueo de API -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jemcu&hide_border=true&background=0f111a&ring=c87d55&fire=2a9d8f&currStreakLabel=c87d55&sideLabels=e0d8b0&currStreakNum=e0d8b0&sideNums=e0d8b0&dates=888888" height="165" alt="Racha de contribuciones"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jemcu&hide_border=true&bg_color=0f111a&color=e0d8b0&line=c87d55&point=2a9d8f" width="100%" alt="Gráfico de actividad"/>
+<!-- Alternativa estable para el gráfico de actividad -->
+<img src="https://svg.template.s3.fastly.net/github-activity?user=jemcu&theme=dark" width="100%" alt="Gráfico de actividad"/>
 
 </div>
 
